@@ -1,0 +1,27 @@
+T:\срв\gift from misha\SRV3-master\SRVLab3\bin\Debug\SRVLab3.exe.config
+T:\срв\gift from misha\SRV3-master\SRVLab3\bin\Debug\SRVLab3.exe
+T:\срв\gift from misha\SRV3-master\SRVLab3\bin\Debug\SRVLab3.pdb
+T:\срв\gift from misha\SRV3-master\SRVLab3\obj\Debug\SRVLab3.csprojResolveAssemblyReference.cache
+T:\срв\gift from misha\SRV3-master\SRVLab3\obj\Debug\SRVLab3.Form1.resources
+T:\срв\gift from misha\SRV3-master\SRVLab3\obj\Debug\SRVLab3.Properties.Resources.resources
+T:\срв\gift from misha\SRV3-master\SRVLab3\obj\Debug\SRVLab3.csproj.GenerateResource.Cache
+T:\срв\gift from misha\SRV3-master\SRVLab3\obj\Debug\SRVLab3.exe
+T:\срв\gift from misha\SRV3-master\SRVLab3\obj\Debug\SRVLab3.pdb
+T:\срв\1\SRV3\SRVLab3\bin\Debug\SRVLab3.exe.config
+T:\срв\1\SRV3\SRVLab3\bin\Debug\SRVLab3.exe
+T:\срв\1\SRV3\SRVLab3\bin\Debug\SRVLab3.pdb
+T:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.csprojResolveAssemblyReference.cache
+T:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.Form1.resources
+T:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.Properties.Resources.resources
+T:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.csproj.GenerateResource.Cache
+T:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.exe
+T:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.pdb
+E:\срв\1\SRV3\SRVLab3\bin\Debug\SRVLab3.exe.config
+E:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.exe
+E:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.pdb
+E:\срв\1\SRV3\SRVLab3\bin\Debug\SRVLab3.exe
+E:\срв\1\SRV3\SRVLab3\bin\Debug\SRVLab3.pdb
+E:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.csprojResolveAssemblyReference.cache
+E:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.Form1.resources
+E:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.Properties.Resources.resources
+E:\срв\1\SRV3\SRVLab3\obj\Debug\SRVLab3.csproj.GenerateResource.Cache

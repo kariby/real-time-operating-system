@@ -1,0 +1,27 @@
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\bin\Debug\SRV1.exe.config
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\bin\Debug\SRV1.exe
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\bin\Debug\SRV1.pdb
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\obj\Debug\SRV1.csprojResolveAssemblyReference.cache
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\obj\Debug\SRV1.Form1.resources
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\obj\Debug\SRV1.Properties.Resources.resources
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\obj\Debug\SRV1.csproj.GenerateResource.Cache
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\obj\Debug\SRV1.exe
+C:\Users\Лилия\Downloads\SRV1-master\SRV1\obj\Debug\SRV1.pdb
+T:\срв\gift from misha\SRV1-master\SRV1\bin\Debug\SRV1.exe.config
+T:\срв\gift from misha\SRV1-master\SRV1\bin\Debug\SRV1.exe
+T:\срв\gift from misha\SRV1-master\SRV1\bin\Debug\SRV1.pdb
+T:\срв\gift from misha\SRV1-master\SRV1\obj\Debug\SRV1.csprojResolveAssemblyReference.cache
+T:\срв\gift from misha\SRV1-master\SRV1\obj\Debug\SRV1.Form1.resources
+T:\срв\gift from misha\SRV1-master\SRV1\obj\Debug\SRV1.Properties.Resources.resources
+T:\срв\gift from misha\SRV1-master\SRV1\obj\Debug\SRV1.csproj.GenerateResource.Cache
+T:\срв\gift from misha\SRV1-master\SRV1\obj\Debug\SRV1.exe
+T:\срв\gift from misha\SRV1-master\SRV1\obj\Debug\SRV1.pdb
+E:\срв\1\SRV1\SRV1\bin\Debug\SRV1.exe.config
+E:\срв\1\SRV1\SRV1\obj\Debug\SRV1.exe
+E:\срв\1\SRV1\SRV1\obj\Debug\SRV1.pdb
+E:\срв\1\SRV1\SRV1\bin\Debug\SRV1.exe
+E:\срв\1\SRV1\SRV1\bin\Debug\SRV1.pdb
+E:\срв\1\SRV1\SRV1\obj\Debug\SRV1.csprojResolveAssemblyReference.cache
+E:\срв\1\SRV1\SRV1\obj\Debug\SRV1.Form1.resources
+E:\срв\1\SRV1\SRV1\obj\Debug\SRV1.Properties.Resources.resources
+E:\срв\1\SRV1\SRV1\obj\Debug\SRV1.csproj.GenerateResource.Cache

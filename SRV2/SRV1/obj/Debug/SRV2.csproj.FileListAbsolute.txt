@@ -1,0 +1,27 @@
+T:\срв\gift from misha\SRV2-master\SRV1\bin\Debug\SRV1.exe.config
+T:\срв\gift from misha\SRV2-master\SRV1\bin\Debug\SRV1.exe
+T:\срв\gift from misha\SRV2-master\SRV1\bin\Debug\SRV1.pdb
+T:\срв\gift from misha\SRV2-master\SRV1\obj\Debug\SRV1.Form1.resources
+T:\срв\gift from misha\SRV2-master\SRV1\obj\Debug\SRV1.Properties.Resources.resources
+T:\срв\gift from misha\SRV2-master\SRV1\obj\Debug\SRV2.csproj.GenerateResource.Cache
+T:\срв\gift from misha\SRV2-master\SRV1\obj\Debug\SRV1.exe
+T:\срв\gift from misha\SRV2-master\SRV1\obj\Debug\SRV1.pdb
+T:\срв\gift from misha\SRV2-master\SRV1\obj\Debug\SRV2.csprojResolveAssemblyReference.cache
+T:\срв\gift from misha\SRV2\SRV1\bin\Debug\SRV1.exe.config
+T:\срв\gift from misha\SRV2\SRV1\bin\Debug\SRV1.exe
+T:\срв\gift from misha\SRV2\SRV1\bin\Debug\SRV1.pdb
+T:\срв\gift from misha\SRV2\SRV1\obj\Debug\SRV2.csprojResolveAssemblyReference.cache
+T:\срв\gift from misha\SRV2\SRV1\obj\Debug\SRV1.Form1.resources
+T:\срв\gift from misha\SRV2\SRV1\obj\Debug\SRV1.Properties.Resources.resources
+T:\срв\gift from misha\SRV2\SRV1\obj\Debug\SRV2.csproj.GenerateResource.Cache
+T:\срв\gift from misha\SRV2\SRV1\obj\Debug\SRV1.exe
+T:\срв\gift from misha\SRV2\SRV1\obj\Debug\SRV1.pdb
+E:\срв\1\SRV2\SRV1\bin\Debug\SRV1.exe.config
+E:\срв\1\SRV2\SRV1\obj\Debug\SRV1.exe
+E:\срв\1\SRV2\SRV1\obj\Debug\SRV1.pdb
+E:\срв\1\SRV2\SRV1\bin\Debug\SRV1.exe
+E:\срв\1\SRV2\SRV1\bin\Debug\SRV1.pdb
+E:\срв\1\SRV2\SRV1\obj\Debug\SRV2.csprojResolveAssemblyReference.cache
+E:\срв\1\SRV2\SRV1\obj\Debug\SRV1.Form1.resources
+E:\срв\1\SRV2\SRV1\obj\Debug\SRV1.Properties.Resources.resources
+E:\срв\1\SRV2\SRV1\obj\Debug\SRV2.csproj.GenerateResource.Cache
